@@ -18,7 +18,7 @@ export const useChangeElements = () => {
 
     const handleButtonYes = () => {
         setImage("https://i.pinimg.com/originals/e4/9d/7b/e49d7b7e965f09e31b498314b02e3662.gif")
-        setTextP('Gracias por aceptar, te amo mucho <3')
+        setTextP('Gracias por aceptar, te quiero mucho <3')
         confetti()
     }
 
